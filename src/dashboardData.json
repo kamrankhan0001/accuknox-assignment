@@ -1,0 +1,57 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Cloud Accounts",
+            "type": "chart",
+            "data": {
+              "connected": 1,
+              "notConnected": 1
+            }
+          },
+          {
+            "id": 2,
+            "name": "Cloud Account Risk Assessment",
+            "type": "chart",
+            "data": {
+              "connected": 1,
+              "notConnected": 1,
+              "Failed":1,
+              "wrong":1
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "CWPP Dashboard",
+        "widgets": [
+          
+          
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Registry Scan",
+        "widgets": [
+          {
+            "id": 3,
+            "name": "Image Risk Assessment",
+            "type": "text",
+            "data": "Random text for image risk assessment."
+          },
+          {
+            "id": 4,
+            "name": "Image Security Issues",
+            "type": "text",
+            "data": "Random text for image security issues."
+          }
+        ]
+      }
+    ]
+  }
+  
