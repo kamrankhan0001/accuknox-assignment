@@ -30,7 +30,18 @@
         "id": 2,
         "name": "CWPP Dashboard",
         "widgets": [
-          
+          {
+            "id":1,
+            "name":"Top5 NameSpace specific Alert",
+            "type":"text",
+            "data":"No Graph data available"
+        },
+        {
+            "id":2,
+            "name":"workload Alert",
+            "type":"text",
+            "data":"No Graph data available"
+        }
           
         ]
       },
